@@ -1,0 +1,1666 @@
+[
+    {
+        "skyId": "AMS",
+        "entityId": "95565044",
+        "title": "Amsterdam Schiphol",
+        "suggestionTitle": "Amsterdam Schiphol (AMS)",
+        "subtitle": "Netherlands",
+        "localizedName": "Amsterdam Schiphol"
+    },
+    {
+        "skyId": "ATL",
+        "entityId": "95673800",
+        "title": "Atlanta Hartsfield-Jackson",
+        "suggestionTitle": "Atlanta Hartsfield-Jackson (ATL)",
+        "subtitle": "United States",
+        "localizedName": "Atlanta Hartsfield-Jackson"
+    },
+    {
+        "skyId": "ATH",
+        "entityId": "95673624",
+        "title": "Athens International",
+        "suggestionTitle": "Athens International (ATH)",
+        "subtitle": "Greece",
+        "localizedName": "Athens International"
+    },
+    {
+        "skyId": "AUS",
+        "entityId": "95673643",
+        "title": "Austin-Bergstrom",
+        "suggestionTitle": "Austin-Bergstrom (AUS)",
+        "subtitle": "United States",
+        "localizedName": "Austin-Bergstrom"
+    },
+    {
+        "skyId": "AMD",
+        "entityId": "95673366",
+        "title": "Ahmedabad",
+        "suggestionTitle": "Ahmedabad (AMD)",
+        "subtitle": "India",
+        "localizedName": "Ahmedabad"
+    },
+    {
+        "skyId": "ALC",
+        "entityId": "95565083",
+        "title": "Alicante",
+        "suggestionTitle": "Alicante (ALC)",
+        "subtitle": "Spain",
+        "localizedName": "Alicante"
+    },
+    {
+        "skyId": "AMM",
+        "entityId": "95673636",
+        "title": "Amman Queen Alia",
+        "suggestionTitle": "Amman Queen Alia (AMM)",
+        "subtitle": "Jordan",
+        "localizedName": "Amman Queen Alia"
+    },
+    {
+        "skyId": "AYT",
+        "entityId": "95673612",
+        "title": "Antalya",
+        "suggestionTitle": "Antalya (AYT)",
+        "subtitle": "T\u00fcrkiye (Turkey)",
+        "localizedName": "Antalya"
+    },
+    {
+        "skyId": "BOS",
+        "entityId": "95673679",
+        "title": "Boston Logan International",
+        "suggestionTitle": "Boston Logan International (BOS)",
+        "subtitle": "United States",
+        "localizedName": "Boston Logan International"
+    },
+    {
+        "skyId": "BCN",
+        "entityId": "95565085",
+        "title": "Barcelona",
+        "suggestionTitle": "Barcelona (BCN)",
+        "subtitle": "Spain",
+        "localizedName": "Barcelona"
+    },
+    {
+        "skyId": "BKK",
+        "entityId": "95673349",
+        "title": "Bangkok Suvarnabhumi",
+        "suggestionTitle": "Bangkok Suvarnabhumi (BKK)",
+        "subtitle": "Thailand",
+        "localizedName": "Bangkok Suvarnabhumi"
+    },
+    {
+        "skyId": "BER",
+        "entityId": "95673383",
+        "title": "Berlin Brandenburg",
+        "suggestionTitle": "Berlin Brandenburg (BER)",
+        "subtitle": "Germany",
+        "localizedName": "Berlin Brandenburg"
+    },
+    {
+        "skyId": "BLR",
+        "entityId": "95673351",
+        "title": "Bengaluru",
+        "suggestionTitle": "Bengaluru (BLR)",
+        "subtitle": "India",
+        "localizedName": "Bengaluru"
+    },
+    {
+        "skyId": "DPS",
+        "entityId": "95673809",
+        "title": "Bali (Denpasar)",
+        "suggestionTitle": "Bali (Denpasar) (DPS)",
+        "subtitle": "Indonesia",
+        "localizedName": "Bali (Denpasar)"
+    },
+    {
+        "skyId": "BUD",
+        "entityId": "95673439",
+        "title": "Budapest",
+        "suggestionTitle": "Budapest (BUD)",
+        "subtitle": "Hungary",
+        "localizedName": "Budapest"
+    },
+    {
+        "skyId": "BOG",
+        "entityId": "95673344",
+        "title": "Bogota",
+        "suggestionTitle": "Bogota (BOG)",
+        "subtitle": "Colombia",
+        "localizedName": "Bogota"
+    },
+    {
+        "skyId": "ORD",
+        "entityId": "95673392",
+        "title": "Chicago O'Hare International",
+        "suggestionTitle": "Chicago O'Hare International (ORD)",
+        "subtitle": "United States",
+        "localizedName": "Chicago O'Hare International"
+    },
+    {
+        "skyId": "CUN",
+        "entityId": "95673718",
+        "title": "Cancun",
+        "suggestionTitle": "Cancun (CUN)",
+        "subtitle": "Mexico",
+        "localizedName": "Cancun"
+    },
+    {
+        "skyId": "CAI",
+        "entityId": "104120222",
+        "title": "Cairo",
+        "suggestionTitle": "Cairo (CAI)",
+        "subtitle": "Egypt",
+        "localizedName": "Cairo"
+    },
+    {
+        "skyId": "CLT",
+        "entityId": "95673672",
+        "title": "Charlotte Douglas",
+        "suggestionTitle": "Charlotte Douglas (CLT)",
+        "subtitle": "United States",
+        "localizedName": "Charlotte Douglas"
+    },
+    {
+        "skyId": "MAA",
+        "entityId": "95673361",
+        "title": "Chennai",
+        "suggestionTitle": "Chennai (MAA)",
+        "subtitle": "India",
+        "localizedName": "Chennai"
+    },
+    {
+        "skyId": "CPH",
+        "entityId": "95673519",
+        "title": "Copenhagen",
+        "suggestionTitle": "Copenhagen (CPH)",
+        "subtitle": "Denmark",
+        "localizedName": "Copenhagen"
+    },
+    {
+        "skyId": "CGN",
+        "entityId": "95673544",
+        "title": "Cologne",
+        "suggestionTitle": "Cologne (CGN)",
+        "subtitle": "Germany",
+        "localizedName": "Cologne"
+    },
+    {
+        "skyId": "CMN",
+        "entityId": "95673387",
+        "title": "Casablanca Mohamed V.",
+        "suggestionTitle": "Casablanca Mohamed V. (CMN)",
+        "subtitle": "Morocco",
+        "localizedName": "Casablanca Mohamed V."
+    },
+    {
+        "skyId": "DFW",
+        "entityId": "95673499",
+        "title": "Dallas Fort Worth International",
+        "suggestionTitle": "Dallas Fort Worth International (DFW)",
+        "subtitle": "United States",
+        "localizedName": "Dallas Fort Worth International"
+    },
+    {
+        "skyId": "DUB",
+        "entityId": "95673529",
+        "title": "Dublin",
+        "suggestionTitle": "Dublin (DUB)",
+        "subtitle": "Ireland",
+        "localizedName": "Dublin"
+    },
+    {
+        "skyId": "DXBA",
+        "entityId": "27540839",
+        "title": "Dubai",
+        "suggestionTitle": "Dubai (Any)",
+        "subtitle": "United Arab Emirates",
+        "localizedName": "Dubai"
+    },
+    {
+        "skyId": "DXB",
+        "entityId": "95673506",
+        "title": "Dubai",
+        "suggestionTitle": "Dubai (DXB)",
+        "subtitle": "United Arab Emirates",
+        "localizedName": "Dubai"
+    },
+    {
+        "skyId": "DWC",
+        "entityId": "128668423",
+        "title": "Dubai Al Maktoum International",
+        "suggestionTitle": "Dubai Al Maktoum International (DWC)",
+        "subtitle": "United Arab Emirates",
+        "localizedName": "Dubai Al Maktoum International"
+    },
+    {
+        "skyId": "DEN",
+        "entityId": "95673705",
+        "title": "Denver International",
+        "suggestionTitle": "Denver International (DEN)",
+        "subtitle": "United States",
+        "localizedName": "Denver International"
+    },
+    {
+        "skyId": "DTW",
+        "entityId": "95673555",
+        "title": "Detroit Wayne County",
+        "suggestionTitle": "Detroit Wayne County (DTW)",
+        "subtitle": "United States",
+        "localizedName": "Detroit Wayne County"
+    },
+    {
+        "skyId": "DUS",
+        "entityId": "95673545",
+        "title": "Dusseldorf International",
+        "suggestionTitle": "Dusseldorf International (DUS)",
+        "subtitle": "Germany",
+        "localizedName": "Dusseldorf International"
+    },
+    {
+        "skyId": "EDI",
+        "entityId": "95673668",
+        "title": "Edinburgh",
+        "suggestionTitle": "Edinburgh (EDI)",
+        "subtitle": "United Kingdom",
+        "localizedName": "Edinburgh"
+    },
+    {
+        "skyId": "EG",
+        "entityId": "29475226",
+        "title": "Egypt",
+        "suggestionTitle": "Egypt",
+        "subtitle": "",
+        "localizedName": "Egypt"
+    },
+    {
+        "skyId": "ELP",
+        "entityId": "95673451",
+        "title": "El Paso International",
+        "suggestionTitle": "El Paso International (ELP)",
+        "subtitle": "United States",
+        "localizedName": "El Paso International"
+    },
+    {
+        "skyId": "EIN",
+        "entityId": "95790302",
+        "title": "Eindhoven",
+        "suggestionTitle": "Eindhoven (EIN)",
+        "subtitle": "Netherlands",
+        "localizedName": "Eindhoven"
+    },
+    {
+        "skyId": "EMA",
+        "entityId": "104120232",
+        "title": "East Midlands",
+        "suggestionTitle": "East Midlands (EMA)",
+        "subtitle": "United Kingdom",
+        "localizedName": "East Midlands"
+    },
+    {
+        "skyId": "EBL",
+        "entityId": "128668093",
+        "title": "Erbil",
+        "suggestionTitle": "Erbil (EBL)",
+        "subtitle": "Iraq",
+        "localizedName": "Erbil"
+    },
+    {
+        "skyId": "SV",
+        "entityId": "29475418",
+        "title": "El Salvador",
+        "suggestionTitle": "El Salvador",
+        "subtitle": "",
+        "localizedName": "El Salvador"
+    },
+    {
+        "skyId": "YEG",
+        "entityId": "95673638",
+        "title": "Edmonton International",
+        "suggestionTitle": "Edmonton International (YEG)",
+        "subtitle": "Canada",
+        "localizedName": "Edmonton International"
+    },
+    {
+        "skyId": "FR",
+        "entityId": "29475385",
+        "title": "France",
+        "suggestionTitle": "France",
+        "subtitle": "",
+        "localizedName": "France"
+    },
+    {
+        "skyId": "FLL",
+        "entityId": "104120241",
+        "title": "Fort Lauderdale International",
+        "suggestionTitle": "Fort Lauderdale International (FLL)",
+        "subtitle": "United States",
+        "localizedName": "Fort Lauderdale International"
+    },
+    {
+        "skyId": "FRAN",
+        "entityId": "27541706",
+        "title": "Frankfurt",
+        "suggestionTitle": "Frankfurt (Any)",
+        "subtitle": "Germany",
+        "localizedName": "Frankfurt"
+    },
+    {
+        "skyId": "FRA",
+        "entityId": "95673652",
+        "title": "Frankfurt am Main",
+        "suggestionTitle": "Frankfurt am Main (FRA)",
+        "subtitle": "Germany",
+        "localizedName": "Frankfurt am Main"
+    },
+    {
+        "skyId": "HHN",
+        "entityId": "95673548",
+        "title": "Frankfurt Hahn",
+        "suggestionTitle": "Frankfurt Hahn (HHN)",
+        "subtitle": "Germany",
+        "localizedName": "Frankfurt Hahn"
+    },
+    {
+        "skyId": "FUK",
+        "entityId": "128667957",
+        "title": "Fukuoka",
+        "suggestionTitle": "Fukuoka (FUK)",
+        "subtitle": "Japan",
+        "localizedName": "Fukuoka"
+    },
+    {
+        "skyId": "FLR",
+        "entityId": "95673830",
+        "title": "Florence",
+        "suggestionTitle": "Florence (FLR)",
+        "subtitle": "Italy",
+        "localizedName": "Florence"
+    },
+    {
+        "skyId": "FI",
+        "entityId": "29475253",
+        "title": "Finland",
+        "suggestionTitle": "Finland",
+        "subtitle": "",
+        "localizedName": "Finland"
+    },
+    {
+        "skyId": "GDL",
+        "entityId": "95673440",
+        "title": "Guadalajara",
+        "suggestionTitle": "Guadalajara (GDL)",
+        "subtitle": "Mexico",
+        "localizedName": "Guadalajara"
+    },
+    {
+        "skyId": "DE",
+        "entityId": "29475381",
+        "title": "Germany",
+        "suggestionTitle": "Germany",
+        "subtitle": "",
+        "localizedName": "Germany"
+    },
+    {
+        "skyId": "GVA",
+        "entityId": "95674055",
+        "title": "Geneva",
+        "suggestionTitle": "Geneva (GVA)",
+        "subtitle": "Switzerland",
+        "localizedName": "Geneva"
+    },
+    {
+        "skyId": "GR",
+        "entityId": "29475229",
+        "title": "Greece",
+        "suggestionTitle": "Greece",
+        "subtitle": "",
+        "localizedName": "Greece"
+    },
+    {
+        "skyId": "GUA",
+        "entityId": "95673534",
+        "title": "Guatemala City",
+        "suggestionTitle": "Guatemala City (GUA)",
+        "subtitle": "Guatemala",
+        "localizedName": "Guatemala City"
+    },
+    {
+        "skyId": "CAN",
+        "entityId": "128668169",
+        "title": "Guangzhou",
+        "suggestionTitle": "Guangzhou (CAN)",
+        "subtitle": "China",
+        "localizedName": "Guangzhou"
+    },
+    {
+        "skyId": "PUS",
+        "entityId": "128667080",
+        "title": "Gimhae International",
+        "suggestionTitle": "Gimhae International (PUS)",
+        "subtitle": "South Korea",
+        "localizedName": "Gimhae International"
+    },
+    {
+        "skyId": "LPA",
+        "entityId": "95673301",
+        "title": "Gran Canaria",
+        "suggestionTitle": "Gran Canaria (LPA)",
+        "subtitle": "Spain",
+        "localizedName": "Gran Canaria"
+    },
+    {
+        "skyId": "HOUA",
+        "entityId": "27538417",
+        "title": "Houston",
+        "suggestionTitle": "Houston (Any)",
+        "subtitle": "United States",
+        "localizedName": "Houston"
+    },
+    {
+        "skyId": "IAH",
+        "entityId": "95673412",
+        "title": "Houston George Bush Intercntl.",
+        "suggestionTitle": "Houston George Bush Intercntl. (IAH)",
+        "subtitle": "United States",
+        "localizedName": "Houston George Bush Intercntl."
+    },
+    {
+        "skyId": "HOU",
+        "entityId": "95673411",
+        "title": "Houston Hobby",
+        "suggestionTitle": "Houston Hobby (HOU)",
+        "subtitle": "United States",
+        "localizedName": "Houston Hobby"
+    },
+    {
+        "skyId": "EFD",
+        "entityId": "129057837",
+        "title": "Houston Ellington Field",
+        "suggestionTitle": "Houston Ellington Field (EFD)",
+        "subtitle": "United States",
+        "localizedName": "Houston Ellington Field"
+    },
+    {
+        "skyId": "HNL",
+        "entityId": "95673827",
+        "title": "Honolulu International",
+        "suggestionTitle": "Honolulu International (HNL)",
+        "subtitle": "United States",
+        "localizedName": "Honolulu International"
+    },
+    {
+        "skyId": "HYD",
+        "entityId": "128668073",
+        "title": "Hyderabad",
+        "suggestionTitle": "Hyderabad (HYD)",
+        "subtitle": "India",
+        "localizedName": "Hyderabad"
+    },
+    {
+        "skyId": "HKG",
+        "entityId": "128668132",
+        "title": "Hong Kong Intl",
+        "suggestionTitle": "Hong Kong Intl (HKG)",
+        "subtitle": "China",
+        "localizedName": "Hong Kong Intl"
+    },
+    {
+        "skyId": "SGN",
+        "entityId": "95673379",
+        "title": "Ho Chi Minh City",
+        "suggestionTitle": "Ho Chi Minh City (SGN)",
+        "subtitle": "Vietnam",
+        "localizedName": "Ho Chi Minh City"
+    },
+    {
+        "skyId": "ISTA",
+        "entityId": "27542903",
+        "title": "Istanbul",
+        "suggestionTitle": "Istanbul (Any)",
+        "subtitle": "T\u00fcrkiye (Turkey)",
+        "localizedName": "Istanbul"
+    },
+    {
+        "skyId": "IST",
+        "entityId": "95673323",
+        "title": "Istanbul",
+        "suggestionTitle": "Istanbul (IST)",
+        "subtitle": "T\u00fcrkiye (Turkey)",
+        "localizedName": "Istanbul"
+    },
+    {
+        "skyId": "SAW",
+        "entityId": "95673324",
+        "title": "Istanbul Sabiha",
+        "suggestionTitle": "Istanbul Sabiha (SAW)",
+        "subtitle": "T\u00fcrkiye (Turkey)",
+        "localizedName": "Istanbul Sabiha"
+    },
+    {
+        "skyId": "DEL",
+        "entityId": "95673498",
+        "title": "Indira Gandhi International ",
+        "suggestionTitle": "Indira Gandhi International  (DEL)",
+        "subtitle": "India",
+        "localizedName": "Indira Gandhi International "
+    },
+    {
+        "skyId": "IT",
+        "entityId": "29475393",
+        "title": "Italy",
+        "suggestionTitle": "Italy",
+        "subtitle": "",
+        "localizedName": "Italy"
+    },
+    {
+        "skyId": "ICN",
+        "entityId": "95673659",
+        "title": "Incheon International",
+        "suggestionTitle": "Incheon International (ICN)",
+        "subtitle": "South Korea",
+        "localizedName": "Incheon International"
+    },
+    {
+        "skyId": "IN",
+        "entityId": "29475284",
+        "title": "India",
+        "suggestionTitle": "India",
+        "subtitle": "",
+        "localizedName": "India"
+    },
+    {
+        "skyId": "IS",
+        "entityId": "29475374",
+        "title": "Iceland",
+        "suggestionTitle": "Iceland",
+        "subtitle": "",
+        "localizedName": "Iceland"
+    },
+    {
+        "skyId": "JP",
+        "entityId": "29475330",
+        "title": "Japan",
+        "suggestionTitle": "Japan",
+        "subtitle": "",
+        "localizedName": "Japan"
+    },
+    {
+        "skyId": "JED",
+        "entityId": "95673390",
+        "title": "Jeddah",
+        "suggestionTitle": "Jeddah (JED)",
+        "subtitle": "Saudi Arabia",
+        "localizedName": "Jeddah"
+    },
+    {
+        "skyId": "CJU",
+        "entityId": "128668104",
+        "title": "Jeju",
+        "suggestionTitle": "Jeju (CJU)",
+        "subtitle": "South Korea",
+        "localizedName": "Jeju"
+    },
+    {
+        "skyId": "JAI",
+        "entityId": "128668565",
+        "title": "Jaipur",
+        "suggestionTitle": "Jaipur (JAI)",
+        "subtitle": "India",
+        "localizedName": "Jaipur"
+    },
+    {
+        "skyId": "CGKI",
+        "entityId": "27539774",
+        "title": "Jakarta",
+        "suggestionTitle": "Jakarta (Any)",
+        "subtitle": "Indonesia",
+        "localizedName": "Jakarta"
+    },
+    {
+        "skyId": "JM",
+        "entityId": "29475406",
+        "title": "Jamaica",
+        "suggestionTitle": "Jamaica",
+        "subtitle": "",
+        "localizedName": "Jamaica"
+    },
+    {
+        "skyId": "JNB",
+        "entityId": "95673415",
+        "title": "Johannesburg O.R. Tambo",
+        "suggestionTitle": "Johannesburg O.R. Tambo (JNB)",
+        "subtitle": "South Africa",
+        "localizedName": "Johannesburg O.R. Tambo"
+    },
+    {
+        "skyId": "JO",
+        "entityId": "29475210",
+        "title": "Jordan",
+        "suggestionTitle": "Jordan",
+        "subtitle": "",
+        "localizedName": "Jordan"
+    },
+    {
+        "skyId": "KUL",
+        "entityId": "95673456",
+        "title": "Kuala Lumpur International",
+        "suggestionTitle": "Kuala Lumpur International (KUL)",
+        "subtitle": "Malaysia",
+        "localizedName": "Kuala Lumpur International"
+    },
+    {
+        "skyId": "COK",
+        "entityId": "95673550",
+        "title": "Kochi",
+        "suggestionTitle": "Kochi (COK)",
+        "subtitle": "India",
+        "localizedName": "Kochi"
+    },
+    {
+        "skyId": "KRK",
+        "entityId": "95673613",
+        "title": "Krakow",
+        "suggestionTitle": "Krakow (KRK)",
+        "subtitle": "Poland",
+        "localizedName": "Krakow"
+    },
+    {
+        "skyId": "CCU",
+        "entityId": "128668366",
+        "title": "Kolkata",
+        "suggestionTitle": "Kolkata (CCU)",
+        "subtitle": "India",
+        "localizedName": "Kolkata"
+    },
+    {
+        "skyId": "KIX",
+        "entityId": "128667802",
+        "title": "Kansai International (Osaka)",
+        "suggestionTitle": "Kansai International (Osaka) (KIX)",
+        "subtitle": "Japan",
+        "localizedName": "Kansai International (Osaka)"
+    },
+    {
+        "skyId": "KTM",
+        "entityId": "95673458",
+        "title": "Kathmandu",
+        "suggestionTitle": "Kathmandu (KTM)",
+        "subtitle": "Nepal",
+        "localizedName": "Kathmandu"
+    },
+    {
+        "skyId": "KHI",
+        "entityId": "128667130",
+        "title": "Karachi",
+        "suggestionTitle": "Karachi (KHI)",
+        "subtitle": "Pakistan",
+        "localizedName": "Karachi"
+    },
+    {
+        "skyId": "KBV",
+        "entityId": "95674159",
+        "title": "Krabi",
+        "suggestionTitle": "Krabi (KBV)",
+        "subtitle": "Thailand",
+        "localizedName": "Krabi"
+    },
+    {
+        "skyId": "LOND",
+        "entityId": "27544008",
+        "title": "London",
+        "suggestionTitle": "London (Any)",
+        "subtitle": "United Kingdom",
+        "localizedName": "London"
+    },
+    {
+        "skyId": "LHR",
+        "entityId": "95565050",
+        "title": "London Heathrow",
+        "suggestionTitle": "London Heathrow (LHR)",
+        "subtitle": "United Kingdom",
+        "localizedName": "London Heathrow"
+    },
+    {
+        "skyId": "LGW",
+        "entityId": "95565051",
+        "title": "London Gatwick",
+        "suggestionTitle": "London Gatwick (LGW)",
+        "subtitle": "United Kingdom",
+        "localizedName": "London Gatwick"
+    },
+    {
+        "skyId": "LTN",
+        "entityId": "95565053",
+        "title": "London Luton",
+        "suggestionTitle": "London Luton (LTN)",
+        "subtitle": "United Kingdom",
+        "localizedName": "London Luton"
+    },
+    {
+        "skyId": "STN",
+        "entityId": "95565052",
+        "title": "London Stansted",
+        "suggestionTitle": "London Stansted (STN)",
+        "subtitle": "United Kingdom",
+        "localizedName": "London Stansted"
+    },
+    {
+        "skyId": "LCY",
+        "entityId": "95565047",
+        "title": "London City",
+        "suggestionTitle": "London City (LCY)",
+        "subtitle": "United Kingdom",
+        "localizedName": "London City"
+    },
+    {
+        "skyId": "SEN",
+        "entityId": "95565054",
+        "title": "London Southend",
+        "suggestionTitle": "London Southend (SEN)",
+        "subtitle": "United Kingdom",
+        "localizedName": "London Southend"
+    },
+    {
+        "skyId": "LAX",
+        "entityId": "95673368",
+        "title": "Los Angeles International",
+        "suggestionTitle": "Los Angeles International (LAX)",
+        "subtitle": "United States",
+        "localizedName": "Los Angeles International"
+    },
+    {
+        "skyId": "MIA",
+        "entityId": "95673821",
+        "title": "Miami International",
+        "suggestionTitle": "Miami International (MIA)",
+        "subtitle": "United States",
+        "localizedName": "Miami International"
+    },
+    {
+        "skyId": "MAD",
+        "entityId": "95565077",
+        "title": "Madrid",
+        "suggestionTitle": "Madrid (MAD)",
+        "subtitle": "Spain",
+        "localizedName": "Madrid"
+    },
+    {
+        "skyId": "BOM",
+        "entityId": "95673320",
+        "title": "Mumbai",
+        "suggestionTitle": "Mumbai (BOM)",
+        "subtitle": "India",
+        "localizedName": "Mumbai"
+    },
+    {
+        "skyId": "MNL",
+        "entityId": "95673326",
+        "title": "Manila Ninoy Aquino",
+        "suggestionTitle": "Manila Ninoy Aquino (MNL)",
+        "subtitle": "Philippines",
+        "localizedName": "Manila Ninoy Aquino"
+    },
+    {
+        "skyId": "MAN",
+        "entityId": "95673540",
+        "title": "Manchester",
+        "suggestionTitle": "Manchester (MAN)",
+        "subtitle": "United Kingdom",
+        "localizedName": "Manchester"
+    },
+    {
+        "skyId": "MILA",
+        "entityId": "27544068",
+        "title": "Milan",
+        "suggestionTitle": "Milan (Any)",
+        "subtitle": "Italy",
+        "localizedName": "Milan"
+    },
+    {
+        "skyId": "MXP",
+        "entityId": "95565070",
+        "title": "Milan Malpensa",
+        "suggestionTitle": "Milan Malpensa (MXP)",
+        "subtitle": "Italy",
+        "localizedName": "Milan Malpensa"
+    },
+    {
+        "skyId": "BGY",
+        "entityId": "95565071",
+        "title": "Milan Bergamo",
+        "suggestionTitle": "Milan Bergamo (BGY)",
+        "subtitle": "Italy",
+        "localizedName": "Milan Bergamo"
+    },
+    {
+        "skyId": "NYCA",
+        "entityId": "27537542",
+        "title": "New York",
+        "suggestionTitle": "New York (Any)",
+        "subtitle": "United States",
+        "localizedName": "New York"
+    },
+    {
+        "skyId": "EWR",
+        "entityId": "95565059",
+        "title": "New York Newark",
+        "suggestionTitle": "New York Newark (EWR)",
+        "subtitle": "United States",
+        "localizedName": "New York Newark"
+    },
+    {
+        "skyId": "JFK",
+        "entityId": "95565058",
+        "title": "New York John F. Kennedy",
+        "suggestionTitle": "New York John F. Kennedy (JFK)",
+        "subtitle": "United States",
+        "localizedName": "New York John F. Kennedy"
+    },
+    {
+        "skyId": "LGA",
+        "entityId": "95565057",
+        "title": "New York LaGuardia",
+        "suggestionTitle": "New York LaGuardia (LGA)",
+        "subtitle": "United States",
+        "localizedName": "New York LaGuardia"
+    },
+    {
+        "skyId": "NAP",
+        "entityId": "95673535",
+        "title": "Naples International",
+        "suggestionTitle": "Naples International (NAP)",
+        "subtitle": "Italy",
+        "localizedName": "Naples International"
+    },
+    {
+        "skyId": "NL",
+        "entityId": "29475378",
+        "title": "Netherlands",
+        "suggestionTitle": "Netherlands",
+        "subtitle": "",
+        "localizedName": "Netherlands"
+    },
+    {
+        "skyId": "NCE",
+        "entityId": "95673860",
+        "title": "Nice",
+        "suggestionTitle": "Nice (NCE)",
+        "subtitle": "France",
+        "localizedName": "Nice"
+    },
+    {
+        "skyId": "NTE",
+        "entityId": "95673933",
+        "title": "Nantes",
+        "suggestionTitle": "Nantes (NTE)",
+        "subtitle": "France",
+        "localizedName": "Nantes"
+    },
+    {
+        "skyId": "ORLB",
+        "entityId": "27542899",
+        "title": "Orlando",
+        "suggestionTitle": "Orlando (Any)",
+        "subtitle": "United States",
+        "localizedName": "Orlando"
+    },
+    {
+        "skyId": "MCO",
+        "entityId": "95674009",
+        "title": "Orlando International",
+        "suggestionTitle": "Orlando International (MCO)",
+        "subtitle": "United States",
+        "localizedName": "Orlando International"
+    },
+    {
+        "skyId": "SFB",
+        "entityId": "95674010",
+        "title": "Orlando Sanford",
+        "suggestionTitle": "Orlando Sanford (SFB)",
+        "subtitle": "United States",
+        "localizedName": "Orlando Sanford"
+    },
+    {
+        "skyId": "OSAA",
+        "entityId": "27542908",
+        "title": "Osaka",
+        "suggestionTitle": "Osaka (Any)",
+        "subtitle": "Japan",
+        "localizedName": "Osaka"
+    },
+    {
+        "skyId": "OKA",
+        "entityId": "128668904",
+        "title": "Okinawa Naha",
+        "suggestionTitle": "Okinawa Naha (OKA)",
+        "subtitle": "Japan",
+        "localizedName": "Okinawa Naha"
+    },
+    {
+        "skyId": "OSLO",
+        "entityId": "27538634",
+        "title": "Oslo",
+        "suggestionTitle": "Oslo (Any)",
+        "subtitle": "Norway",
+        "localizedName": "Oslo"
+    },
+    {
+        "skyId": "OSL",
+        "entityId": "128667763",
+        "title": "Oslo Gardermoen",
+        "suggestionTitle": "Oslo Gardermoen (OSL)",
+        "subtitle": "Norway",
+        "localizedName": "Oslo Gardermoen"
+    },
+    {
+        "skyId": "TRF",
+        "entityId": "128667636",
+        "title": "Oslo Torp",
+        "suggestionTitle": "Oslo Torp (TRF)",
+        "subtitle": "Norway",
+        "localizedName": "Oslo Torp"
+    },
+    {
+        "skyId": "PARI",
+        "entityId": "27539733",
+        "title": "Paris",
+        "suggestionTitle": "Paris (Any)",
+        "subtitle": "France",
+        "localizedName": "Paris"
+    },
+    {
+        "skyId": "CDG",
+        "entityId": "95565041",
+        "title": "Paris Charles de Gaulle",
+        "suggestionTitle": "Paris Charles de Gaulle (CDG)",
+        "subtitle": "France",
+        "localizedName": "Paris Charles de Gaulle"
+    },
+    {
+        "skyId": "ORY",
+        "entityId": "95565040",
+        "title": "Paris Orly",
+        "suggestionTitle": "Paris Orly (ORY)",
+        "subtitle": "France",
+        "localizedName": "Paris Orly"
+    },
+    {
+        "skyId": "BVA",
+        "entityId": "95566278",
+        "title": "Paris Beauvais",
+        "suggestionTitle": "Paris Beauvais (BVA)",
+        "subtitle": "France",
+        "localizedName": "Paris Beauvais"
+    },
+    {
+        "skyId": "PHXA",
+        "entityId": "27540837",
+        "title": "Phoenix",
+        "suggestionTitle": "Phoenix (Any)",
+        "subtitle": "United States",
+        "localizedName": "Phoenix"
+    },
+    {
+        "skyId": "PHX",
+        "entityId": "95673480",
+        "title": "Phoenix Sky Harbor",
+        "suggestionTitle": "Phoenix Sky Harbor (PHX)",
+        "subtitle": "United States",
+        "localizedName": "Phoenix Sky Harbor"
+    },
+    {
+        "skyId": "AZA",
+        "entityId": "114126464",
+        "title": "Phoenix-Mesa Gateway",
+        "suggestionTitle": "Phoenix-Mesa Gateway (AZA)",
+        "subtitle": "United States",
+        "localizedName": "Phoenix-Mesa Gateway"
+    },
+    {
+        "skyId": "SCF",
+        "entityId": "129052555",
+        "title": "Phoenix Scottsdale Municipal",
+        "suggestionTitle": "Phoenix Scottsdale Municipal (SCF)",
+        "subtitle": "United States",
+        "localizedName": "Phoenix Scottsdale Municipal"
+    },
+    {
+        "skyId": "UIO",
+        "entityId": "95673467",
+        "title": "Quito",
+        "suggestionTitle": "Quito (UIO)",
+        "subtitle": "Ecuador",
+        "localizedName": "Quito"
+    },
+    {
+        "skyId": "QRO",
+        "entityId": "95673662",
+        "title": "Queretaro",
+        "suggestionTitle": "Queretaro (QRO)",
+        "subtitle": "Mexico",
+        "localizedName": "Queretaro"
+    },
+    {
+        "skyId": "YQB",
+        "entityId": "95673727",
+        "title": "Quebec",
+        "suggestionTitle": "Quebec (YQB)",
+        "subtitle": "Canada",
+        "localizedName": "Quebec"
+    },
+    {
+        "skyId": "ZQN",
+        "entityId": "104120283",
+        "title": "Queenstown",
+        "suggestionTitle": "Queenstown (ZQN)",
+        "subtitle": "New Zealand",
+        "localizedName": "Queenstown"
+    },
+    {
+        "skyId": "TAO",
+        "entityId": "128667651",
+        "title": "Qingdao",
+        "suggestionTitle": "Qingdao (TAO)",
+        "subtitle": "China",
+        "localizedName": "Qingdao"
+    },
+    {
+        "skyId": "QA",
+        "entityId": "29475214",
+        "title": "Qatar",
+        "suggestionTitle": "Qatar",
+        "subtitle": "",
+        "localizedName": "Qatar"
+    },
+    {
+        "skyId": "UET",
+        "entityId": "128667722",
+        "title": "Quetta",
+        "suggestionTitle": "Quetta (UET)",
+        "subtitle": "Pakistan",
+        "localizedName": "Quetta"
+    },
+    {
+        "skyId": "UIH",
+        "entityId": "128667686",
+        "title": "Qui Nhon",
+        "suggestionTitle": "Qui Nhon (UIH)",
+        "subtitle": "Vietnam",
+        "localizedName": "Qui Nhon"
+    },
+    {
+        "skyId": "ROME",
+        "entityId": "27539793",
+        "title": "Rome",
+        "suggestionTitle": "Rome (Any)",
+        "subtitle": "Italy",
+        "localizedName": "Rome"
+    },
+    {
+        "skyId": "FCO",
+        "entityId": "95565065",
+        "title": "Rome Fiumicino",
+        "suggestionTitle": "Rome Fiumicino (FCO)",
+        "subtitle": "Italy",
+        "localizedName": "Rome Fiumicino"
+    },
+    {
+        "skyId": "CIA",
+        "entityId": "95565062",
+        "title": "Rome Ciampino",
+        "suggestionTitle": "Rome Ciampino (CIA)",
+        "subtitle": "Italy",
+        "localizedName": "Rome Ciampino"
+    },
+    {
+        "skyId": "RDU",
+        "entityId": "95673938",
+        "title": "Raleigh / Durham",
+        "suggestionTitle": "Raleigh / Durham (RDU)",
+        "subtitle": "United States",
+        "localizedName": "Raleigh / Durham"
+    },
+    {
+        "skyId": "RIOA",
+        "entityId": "27541837",
+        "title": "Rio De Janeiro",
+        "suggestionTitle": "Rio De Janeiro (Any)",
+        "subtitle": "Brazil",
+        "localizedName": "Rio De Janeiro"
+    },
+    {
+        "skyId": "GIG",
+        "entityId": "95673347",
+        "title": "Rio De Janeiro Internacional",
+        "suggestionTitle": "Rio De Janeiro Internacional (GIG)",
+        "subtitle": "Brazil",
+        "localizedName": "Rio De Janeiro Internacional"
+    },
+    {
+        "skyId": "SDU",
+        "entityId": "95673346",
+        "title": "Rio De Janeiro Santos Dumont",
+        "suggestionTitle": "Rio De Janeiro Santos Dumont (SDU)",
+        "subtitle": "Brazil",
+        "localizedName": "Rio De Janeiro Santos Dumont"
+    },
+    {
+        "skyId": "KEF",
+        "entityId": "128667498",
+        "title": "Reykjavik Keflavik",
+        "suggestionTitle": "Reykjavik Keflavik (KEF)",
+        "subtitle": "Iceland",
+        "localizedName": "Reykjavik Keflavik"
+    },
+    {
+        "skyId": "SFO",
+        "entityId": "95673577",
+        "title": "San Francisco International",
+        "suggestionTitle": "San Francisco International (SFO)",
+        "subtitle": "United States",
+        "localizedName": "San Francisco International"
+    },
+    {
+        "skyId": "ES",
+        "entityId": "29475369",
+        "title": "Spain",
+        "suggestionTitle": "Spain",
+        "subtitle": "",
+        "localizedName": "Spain"
+    },
+    {
+        "skyId": "SELA",
+        "entityId": "27538638",
+        "title": "Seoul",
+        "suggestionTitle": "Seoul (Any)",
+        "subtitle": "South Korea",
+        "localizedName": "Seoul"
+    },
+    {
+        "skyId": "SEAA",
+        "entityId": "27538444",
+        "title": "Seattle",
+        "suggestionTitle": "Seattle (Any)",
+        "subtitle": "United States",
+        "localizedName": "Seattle"
+    },
+    {
+        "skyId": "SEA",
+        "entityId": "95673694",
+        "title": "Seattle / Tacoma International",
+        "suggestionTitle": "Seattle / Tacoma International (SEA)",
+        "subtitle": "United States",
+        "localizedName": "Seattle / Tacoma International"
+    },
+    {
+        "skyId": "LKE",
+        "entityId": "128668230",
+        "title": "Seattle Lake Union SPB",
+        "suggestionTitle": "Seattle Lake Union SPB (LKE)",
+        "subtitle": "United States",
+        "localizedName": "Seattle Lake Union SPB"
+    },
+    {
+        "skyId": "SYD",
+        "entityId": "128667058",
+        "title": "Sydney",
+        "suggestionTitle": "Sydney (SYD)",
+        "subtitle": "Australia",
+        "localizedName": "Sydney"
+    },
+    {
+        "skyId": "SIN",
+        "entityId": "95673375",
+        "title": "Singapore Changi",
+        "suggestionTitle": "Singapore Changi (SIN)",
+        "subtitle": "Singapore",
+        "localizedName": "Singapore Changi"
+    },
+    {
+        "skyId": "TYOA",
+        "entityId": "27542089",
+        "title": "Tokyo",
+        "suggestionTitle": "Tokyo (Any)",
+        "subtitle": "Japan",
+        "localizedName": "Tokyo"
+    },
+    {
+        "skyId": "HND",
+        "entityId": "128667143",
+        "title": "Tokyo Haneda",
+        "suggestionTitle": "Tokyo Haneda (HND)",
+        "subtitle": "Japan",
+        "localizedName": "Tokyo Haneda"
+    },
+    {
+        "skyId": "NRT",
+        "entityId": "128668889",
+        "title": "Tokyo Narita",
+        "suggestionTitle": "Tokyo Narita (NRT)",
+        "subtitle": "Japan",
+        "localizedName": "Tokyo Narita"
+    },
+    {
+        "skyId": "TH",
+        "entityId": "29475320",
+        "title": "Thailand",
+        "suggestionTitle": "Thailand",
+        "subtitle": "",
+        "localizedName": "Thailand"
+    },
+    {
+        "skyId": "TPA",
+        "entityId": "95673870",
+        "title": "Tampa International",
+        "suggestionTitle": "Tampa International (TPA)",
+        "subtitle": "United States",
+        "localizedName": "Tampa International"
+    },
+    {
+        "skyId": "YYZ",
+        "entityId": "95673353",
+        "title": "Toronto Pearson International",
+        "suggestionTitle": "Toronto Pearson International (YYZ)",
+        "subtitle": "Canada",
+        "localizedName": "Toronto Pearson International"
+    },
+    {
+        "skyId": "TPET",
+        "entityId": "27547236",
+        "title": "Taipei",
+        "suggestionTitle": "Taipei (Any)",
+        "subtitle": "Taiwan",
+        "localizedName": "Taipei"
+    },
+    {
+        "skyId": "TPE",
+        "entityId": "128667054",
+        "title": "Taipei Taiwan Taoyuan",
+        "suggestionTitle": "Taipei Taiwan Taoyuan (TPE)",
+        "subtitle": "Taiwan",
+        "localizedName": "Taipei Taiwan Taoyuan"
+    },
+    {
+        "skyId": "US",
+        "entityId": "29475437",
+        "title": "United States",
+        "suggestionTitle": "United States",
+        "subtitle": "",
+        "localizedName": "United States"
+    },
+    {
+        "skyId": "UK",
+        "entityId": "29475375",
+        "title": "United Kingdom",
+        "suggestionTitle": "United Kingdom",
+        "subtitle": "",
+        "localizedName": "United Kingdom"
+    },
+    {
+        "skyId": "UDR",
+        "entityId": "128669090",
+        "title": "Udaipur",
+        "suggestionTitle": "Udaipur (UDR)",
+        "subtitle": "India",
+        "localizedName": "Udaipur"
+    },
+    {
+        "skyId": "AE",
+        "entityId": "29475216",
+        "title": "United Arab Emirates",
+        "suggestionTitle": "United Arab Emirates",
+        "subtitle": "",
+        "localizedName": "United Arab Emirates"
+    },
+    {
+        "skyId": "USH",
+        "entityId": "95674337",
+        "title": "Ushuaia",
+        "suggestionTitle": "Ushuaia (USH)",
+        "subtitle": "Argentina",
+        "localizedName": "Ushuaia"
+    },
+    {
+        "skyId": "UZ",
+        "entityId": "29475316",
+        "title": "Uzbekistan",
+        "suggestionTitle": "Uzbekistan",
+        "subtitle": "",
+        "localizedName": "Uzbekistan"
+    },
+    {
+        "skyId": "UDI",
+        "entityId": "95673698",
+        "title": "Uberlandia",
+        "suggestionTitle": "Uberlandia (UDI)",
+        "subtitle": "Brazil",
+        "localizedName": "Uberlandia"
+    },
+    {
+        "skyId": "UY",
+        "entityId": "29475404",
+        "title": "Uruguay",
+        "suggestionTitle": "Uruguay",
+        "subtitle": "",
+        "localizedName": "Uruguay"
+    },
+    {
+        "skyId": "VIE",
+        "entityId": "95673444",
+        "title": "Vienna",
+        "suggestionTitle": "Vienna (VIE)",
+        "subtitle": "Austria",
+        "localizedName": "Vienna"
+    },
+    {
+        "skyId": "VLC",
+        "entityId": "95565090",
+        "title": "Valencia",
+        "suggestionTitle": "Valencia (VLC)",
+        "subtitle": "Spain",
+        "localizedName": "Valencia"
+    },
+    {
+        "skyId": "VENI",
+        "entityId": "27547373",
+        "title": "Venice",
+        "suggestionTitle": "Venice (Any)",
+        "subtitle": "Italy",
+        "localizedName": "Venice"
+    },
+    {
+        "skyId": "VCE",
+        "entityId": "95565074",
+        "title": "Venice Marco Polo",
+        "suggestionTitle": "Venice Marco Polo (VCE)",
+        "subtitle": "Italy",
+        "localizedName": "Venice Marco Polo"
+    },
+    {
+        "skyId": "TSF",
+        "entityId": "95565075",
+        "title": "Venice Treviso",
+        "suggestionTitle": "Venice Treviso (TSF)",
+        "subtitle": "Italy",
+        "localizedName": "Venice Treviso"
+    },
+    {
+        "skyId": "VN",
+        "entityId": "29475319",
+        "title": "Vietnam",
+        "suggestionTitle": "Vietnam",
+        "subtitle": "",
+        "localizedName": "Vietnam"
+    },
+    {
+        "skyId": "YVR",
+        "entityId": "95673427",
+        "title": "Vancouver International",
+        "suggestionTitle": "Vancouver International (YVR)",
+        "subtitle": "Canada",
+        "localizedName": "Vancouver International"
+    },
+    {
+        "skyId": "VNO",
+        "entityId": "95673717",
+        "title": "Vilnius",
+        "suggestionTitle": "Vilnius (VNO)",
+        "subtitle": "Lithuania",
+        "localizedName": "Vilnius"
+    },
+    {
+        "skyId": "WASA",
+        "entityId": "27538424",
+        "title": "Washington, D.C.",
+        "suggestionTitle": "Washington, D.C. (Any)",
+        "subtitle": "United States",
+        "localizedName": "Washington, D.C."
+    },
+    {
+        "skyId": "IAD",
+        "entityId": "95673665",
+        "title": "Washington Dulles",
+        "suggestionTitle": "Washington Dulles (IAD)",
+        "subtitle": "United States",
+        "localizedName": "Washington Dulles"
+    },
+    {
+        "skyId": "DCA",
+        "entityId": "95673664",
+        "title": "Washington Ronald Reagan",
+        "suggestionTitle": "Washington Ronald Reagan (DCA)",
+        "subtitle": "United States",
+        "localizedName": "Washington Ronald Reagan"
+    },
+    {
+        "skyId": "WARS",
+        "entityId": "27547454",
+        "title": "Warsaw",
+        "suggestionTitle": "Warsaw (Any)",
+        "subtitle": "Poland",
+        "localizedName": "Warsaw"
+    },
+    {
+        "skyId": "WAW",
+        "entityId": "95673438",
+        "title": "Warsaw Chopin",
+        "suggestionTitle": "Warsaw Chopin (WAW)",
+        "subtitle": "Poland",
+        "localizedName": "Warsaw Chopin"
+    },
+    {
+        "skyId": "WMI",
+        "entityId": "128667439",
+        "title": "Warsaw Modlin",
+        "suggestionTitle": "Warsaw Modlin (WMI)",
+        "subtitle": "Poland",
+        "localizedName": "Warsaw Modlin"
+    },
+    {
+        "skyId": "WRO",
+        "entityId": "95674155",
+        "title": "Wroclaw",
+        "suggestionTitle": "Wroclaw (WRO)",
+        "subtitle": "Poland",
+        "localizedName": "Wroclaw"
+    },
+    {
+        "skyId": "NRN",
+        "entityId": "95673547",
+        "title": "Weeze",
+        "suggestionTitle": "Weeze (NRN)",
+        "subtitle": "Germany",
+        "localizedName": "Weeze"
+    },
+    {
+        "skyId": "XMN",
+        "entityId": "128669148",
+        "title": "Xiamen",
+        "suggestionTitle": "Xiamen (XMN)",
+        "subtitle": "China",
+        "localizedName": "Xiamen"
+    },
+    {
+        "skyId": "XIY",
+        "entityId": "128667033",
+        "title": "Xi An Xianyang",
+        "suggestionTitle": "Xi An Xianyang (XIY)",
+        "subtitle": "China",
+        "localizedName": "Xi An Xianyang"
+    },
+    {
+        "skyId": "XNN",
+        "entityId": "128667709",
+        "title": "Xining",
+        "suggestionTitle": "Xining (XNN)",
+        "subtitle": "China",
+        "localizedName": "Xining"
+    },
+    {
+        "skyId": "JHG",
+        "entityId": "128667988",
+        "title": "Xishuangbanna Gasa",
+        "suggestionTitle": "Xishuangbanna Gasa (JHG)",
+        "subtitle": "China",
+        "localizedName": "Xishuangbanna Gasa"
+    },
+    {
+        "skyId": "XUZ",
+        "entityId": "128667152",
+        "title": "Xuzhou",
+        "suggestionTitle": "Xuzhou (XUZ)",
+        "subtitle": "China",
+        "localizedName": "Xuzhou"
+    },
+    {
+        "skyId": "XKH",
+        "entityId": "128667153",
+        "title": "Xieng Khouang",
+        "suggestionTitle": "Xieng Khouang (XKH)",
+        "subtitle": "Laos",
+        "localizedName": "Xieng Khouang"
+    },
+    {
+        "skyId": "XFN",
+        "entityId": "128667661",
+        "title": "Xiangfan",
+        "suggestionTitle": "Xiangfan (XFN)",
+        "subtitle": "China",
+        "localizedName": "Xiangfan"
+    },
+    {
+        "skyId": "XIC",
+        "entityId": "128667614",
+        "title": "Xichang",
+        "suggestionTitle": "Xichang (XIC)",
+        "subtitle": "China",
+        "localizedName": "Xichang"
+    },
+    {
+        "skyId": "RGN",
+        "entityId": "99539623",
+        "title": "Yangon",
+        "suggestionTitle": "Yangon (RGN)",
+        "subtitle": "Burma",
+        "localizedName": "Yangon"
+    },
+    {
+        "skyId": "YNB",
+        "entityId": "128669180",
+        "title": "Yanbu",
+        "suggestionTitle": "Yanbu (YNB)",
+        "subtitle": "Saudi Arabia",
+        "localizedName": "Yanbu"
+    },
+    {
+        "skyId": "JOGI",
+        "entityId": "27543011",
+        "title": "Yogyakarta",
+        "suggestionTitle": "Yogyakarta (Any)",
+        "subtitle": "Indonesia",
+        "localizedName": "Yogyakarta"
+    },
+    {
+        "skyId": "JOG",
+        "entityId": "95673485",
+        "title": "Yogyakarta",
+        "suggestionTitle": "Yogyakarta (JOG)",
+        "subtitle": "Indonesia",
+        "localizedName": "Yogyakarta"
+    },
+    {
+        "skyId": "YZF",
+        "entityId": "128667599",
+        "title": "Yellowknife",
+        "suggestionTitle": "Yellowknife (YZF)",
+        "subtitle": "Canada",
+        "localizedName": "Yellowknife"
+    },
+    {
+        "skyId": "RSU",
+        "entityId": "128667746",
+        "title": "Yeosu",
+        "suggestionTitle": "Yeosu (RSU)",
+        "subtitle": "South Korea",
+        "localizedName": "Yeosu"
+    },
+    {
+        "skyId": "NSI",
+        "entityId": "99539631",
+        "title": "Yaounde Nsimalen",
+        "suggestionTitle": "Yaounde Nsimalen (NSI)",
+        "subtitle": "Cameroon",
+        "localizedName": "Yaounde Nsimalen"
+    },
+    {
+        "skyId": "YGJ",
+        "entityId": "128669163",
+        "title": "Yonago",
+        "suggestionTitle": "Yonago (YGJ)",
+        "subtitle": "Japan",
+        "localizedName": "Yonago"
+    },
+    {
+        "skyId": "ZRH",
+        "entityId": "95673856",
+        "title": "Zurich",
+        "suggestionTitle": "Zurich (ZRH)",
+        "subtitle": "Switzerland",
+        "localizedName": "Zurich"
+    },
+    {
+        "skyId": "AUH",
+        "entityId": "95673509",
+        "title": "Zayed International",
+        "suggestionTitle": "Zayed International (AUH)",
+        "subtitle": "United Arab Emirates",
+        "localizedName": "Zayed International"
+    },
+    {
+        "skyId": "ZAG",
+        "entityId": "95673639",
+        "title": "Zagreb",
+        "suggestionTitle": "Zagreb (ZAG)",
+        "subtitle": "Croatia",
+        "localizedName": "Zagreb"
+    },
+    {
+        "skyId": "ZNZ",
+        "entityId": "104120224",
+        "title": "Zanzibar",
+        "suggestionTitle": "Zanzibar (ZNZ)",
+        "subtitle": "Tanzania",
+        "localizedName": "Zanzibar"
+    },
+    {
+        "skyId": "EVN",
+        "entityId": "95673518",
+        "title": "Zvartnots International",
+        "suggestionTitle": "Zvartnots International (EVN)",
+        "subtitle": "Armenia",
+        "localizedName": "Zvartnots International"
+    },
+    {
+        "skyId": "ZTH",
+        "entityId": "128667624",
+        "title": "Zante (Zakynthos)",
+        "suggestionTitle": "Zante (Zakynthos) (ZTH)",
+        "subtitle": "Greece",
+        "localizedName": "Zante (Zakynthos)"
+    },
+    {
+        "skyId": "ZAZ",
+        "entityId": "95565103",
+        "title": "Zaragoza",
+        "suggestionTitle": "Zaragoza (ZAZ)",
+        "subtitle": "Spain",
+        "localizedName": "Zaragoza"
+    },
+    {
+        "skyId": "ZAD",
+        "entityId": "95674072",
+        "title": "Zadar",
+        "suggestionTitle": "Zadar (ZAD)",
+        "subtitle": "Croatia",
+        "localizedName": "Zadar"
+    }
+]
